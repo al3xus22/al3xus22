@@ -21,7 +21,7 @@
 </div>
 <div id="statistics">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark" alt="contributions" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark" alt="contributions" width="100%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" />&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark" alt="languages_by_repo" />
 </div>
