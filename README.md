@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>&nbsp;
 </div>
-<img src="https://github-readme-stats.vercel.app/api.al3xus22&show_icons=true" alt="github stats" width="45%" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%" align="center"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=cobalt2" alt="statistics" />
 <!--
 **al3xus22/al3xus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
