@@ -1,9 +1,12 @@
 <div id="header" align="center">
 <h1>Welcome to my page!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>I'm Alex and let's CODE!</h2>
-</div>
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=38&pause=1000&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>
+</div>
+<div id="socials" align="center">
+  <a href="https://t.me/alex_filaman">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api.al3xus22&show_icons=true" alt="github stats" width="45%" align="center"/>
 <!--
