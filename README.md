@@ -22,8 +22,8 @@
 <div id="statistics">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark" alt="contributions" width="100%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" width="50%" />&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark" alt="languages_by_repo" width="50%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" width="49%" />&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark" alt="languages_by_repo" width="49%" />
 </div>
 <!--
 **al3xus22/al3xus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
