@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my page!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=30&pause=1000&center=true&width=970&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api.al3xus22=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **al3xus22/al3xus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
