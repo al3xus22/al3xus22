@@ -2,7 +2,7 @@
 <h2 align="center">I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=40&pause=1000&center=true&width=970&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?al3xus22={al3xus22}&show_icons=true" alt="github stats" width="45%" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api.al3xus22&show_icons=true" alt="github stats" width="45%" align="center"/>
 <!--
 **al3xus22/al3xus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
