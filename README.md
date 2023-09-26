@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1>Welcome!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>I'm Alex and let's CODE!</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=25&pause=1000&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&size=18&pause=1000&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/alex_filaman">
@@ -17,12 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>
 </div>
 <div id="statistics">
-  <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark" alt="contributions" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" />&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark" alt="languages_by_repo" />
 </div>
 <!--
 **al3xus22/al3xus22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
