@@ -23,9 +23,18 @@
   <h3>My stat:</h3>
   <div align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark" alt="contributions" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark" alt="stats" />&nbsp;
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark" alt="languages_by_repo" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=al3xus22&theme=default" alt="contributions" /> 
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=default" alt="stats" />
+    </picture>&nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=default" alt="languages_by_repo" />
+    </picture>
   </div>
 </div>
 <!--
