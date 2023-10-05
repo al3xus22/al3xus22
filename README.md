@@ -2,7 +2,7 @@
 <h1>Welcome!</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h2>I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Mooli&size=18&pause=1000&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=30A7DC&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=113A4C&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>    
 </div>
 <div id="socials" align="center">
