@@ -1,4 +1,4 @@
-<div id="header" align="center" style="text-decoration: none">
+<div id="header" align="center">
 <h1>Welcome!</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h2>I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg">
