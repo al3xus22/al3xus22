@@ -33,8 +33,8 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=graywhite" alt="stats" />
     </picture>&nbsp; -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true&theme=transparent">
-      <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true&theme=transparent" alt="github stats" width="45%"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent">
+      <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent" alt="github stats" width="45%"/>
     </picture>&nbsp;
 <!--     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
