@@ -34,7 +34,7 @@
     </picture>&nbsp; -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent">
-      <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent" alt="github stats" width="45%"/>
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent" alt="github stats"/>
     </picture>&nbsp;
 <!--     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
@@ -42,7 +42,7 @@
     </picture> -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=vision-friendly-dark">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=vision-friendly-dark" alt="languages_by_repo" />
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=vision-friendly-dark" alt="languages_by_repo" />
     </picture>
 <!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
