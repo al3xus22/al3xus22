@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width=500>
 <h1>Welcome!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg">
