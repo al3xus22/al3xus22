@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1>Welcome!</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1>Welcome!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=30A7DC&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>    
@@ -44,7 +44,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=github_dark">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=default" alt="languages_by_repo" />
     </picture>
-<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
 </div>
 <!--
