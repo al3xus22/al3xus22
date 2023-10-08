@@ -34,7 +34,7 @@
     </picture>&nbsp; -->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true">
-      <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>
     </picture>&nbsp;
 <!--     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
