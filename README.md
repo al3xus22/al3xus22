@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>
 </div>
 <div id="stat">
-  <h3>My stat:</h3>
+  <h3>My stats:</h3>
   <div align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
     <picture>
@@ -32,10 +32,15 @@
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=dark">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=graywhite" alt="stats" />
     </picture>&nbsp;
-    <picture>
+<!--     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=graywhite" alt="languages_by_repo" />
+    </picture> -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark" alt="languages_by_repo" />
     </picture>
+<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
 </div>
 <!--
