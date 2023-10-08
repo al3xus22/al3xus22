@@ -10,7 +10,7 @@
   </a>
 </div>
 <div id="stack">
-  <h3>My stack:</h3>
+  <h3>:hammer_and_wrench: My stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" title="webpack" width="40" height="40"/>
 </div>
 <div id="stat">
-  <h3>My stats:</h3>
+  <h3>:rocket: My stats:</h3>
   <div align="center">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=al3xus22&show_icons=true" alt="github stats" width="45%"/>-->
 <!--     <picture>
