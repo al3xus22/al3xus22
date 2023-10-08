@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<h1>Welcome!</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 style="text-decoration: none;">Welcome!</h1><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h2>I'm Alex and let's CODE!</h2>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=30A7DC&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>    
