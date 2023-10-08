@@ -33,16 +33,16 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=al3xus22&theme=graywhite" alt="stats" />
     </picture>&nbsp; -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=transparent" alt="github stats"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=github_dark">
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=al3xus22&layout=compact&show_icons=true&theme=default" alt="github stats"/>
     </picture>&nbsp;
 <!--     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=dark">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=al3xus22&theme=graywhite" alt="languages_by_repo" />
     </picture> -->
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=transparent">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=vision-friendly-dark" alt="languages_by_repo" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=github_dark">
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&theme=default" alt="languages_by_repo" />
     </picture>
 <!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3xus22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
   </div>
