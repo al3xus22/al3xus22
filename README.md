@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+* :technologist: Интересусь новыми технологиями!
+* :computer: Ни дня без кодинга!
 <div id="stack">
   <h3>:hammer_and_wrench: My stack:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
