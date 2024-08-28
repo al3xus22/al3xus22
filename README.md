@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width=500>
-<h1>Welcome!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1>Welcome!</h1>
 <h2>I'm Alex and let's CODE!</h2>    
 </div>
 <div id="socials" align="center">
