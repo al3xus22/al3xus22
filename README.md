@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width=500>
 <h1>Welcome!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>I'm Alex and let's CODE!</h2>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=30A7DC&center=true&width=850&lines=While+you+are+evolving+-+you+are+alive!" alt="Typing SVG" /></a>    
+<h2>I'm Alex and let's CODE!</h2>    
 </div>
 <div id="socials" align="center">
   <a href="https://t.me/alex_filaman">
